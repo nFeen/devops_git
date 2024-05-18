@@ -1,0 +1,6 @@
+while(true)
+{
+	HandleInput();
+	UpdateScripts();
+	DrawGraphic();
+}
